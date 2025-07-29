@@ -6,6 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "wdio": "wdio run ./wdio.conf.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",

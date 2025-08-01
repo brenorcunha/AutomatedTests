@@ -9,9 +9,9 @@ export const config = {
 
   capabilities: [{
     browserName: 'firefox',
-    /* 'moz:firefoxOptions': {
+    'moz:firefoxOptions': {
       args: ['-headless'] // remova esse argumento se quiser ver o navegador rodando
-    } */
+    }
   }],
 
   logLevel: 'info',
